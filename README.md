@@ -43,8 +43,11 @@ The project includes the following components:
 
 ## Dataset
 **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 **Records**: 284,807 transactions
+
 **Fraud Cases**: 492
+
 **Features**: 31 columns including PCA-transformed V1-V28, Time, Amount, and Class
 
 ## How to Use
